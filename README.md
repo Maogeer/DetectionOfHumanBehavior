@@ -1,3 +1,2 @@
 # DetectionOfHumanBehavior
 将开放采集自摄像机的原始视频数据集，从提供的视频中找出并判断所有的预先定义的n种人体行为。
-asc
