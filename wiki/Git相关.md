@@ -1,4 +1,6 @@
 # Git相关
++ [git远程提交代码链接教程](https://blog.csdn.net/wwei25/article/details/53906541)
+
 ## Git本地操作
 + **设置基本信息**
 ![github](media/15651484510195/github.png)
@@ -47,3 +49,4 @@ SunnydeMacBook-Pro:DetectionOfHumanBehavior sunnyhotdrynoodle$
 ```shell
 git config --global core.quotepath false
 ```
+
